@@ -7,13 +7,12 @@ e202c59369789e0284f7a1b2b6aef378 = Assets/Audio/Crash.mp3
 f9da9dfd0a3128a4ce5eb41feeec2936 = Assets/Audio/Motor.wav
 e8e9a0d851982419005b605602bf0e69 = Assets/Audio/Music.mp3
 c3c4c8e879a47e4d55b552c78dcb37b4 = Assets/Audio/Powerup.mp3
+2992805a37961c064c7e9d01c0b69cb2 = Assets/GREENBUTTONGAMES.png
 a5b5006c295bac1813f192b14f6259f6 = Assets/Materials/Textures/Billboard.png
 3e34a5381fe416054b1ef0781db8fa23 = Assets/Materials/Textures/Kart_Kart_Material_AlbedoAO_Blue.png
-9c1f59a8469e55a0c310d07852af55cb = Assets/Materials/Textures/Kart_Kart_Material_AlbedoAO_Pink.png
 59d6638e4b7e8aaccc4fc9f5f426d4a2 = Assets/Materials/Textures/Kart_Kart_Material_MetallicSmoothness.png
 8df76df07a7373d6c0ad5c99f80b90e8 = Assets/Materials/Textures/Oil.png
 280810710d6f05853ec42a19b495f691 = Assets/Materials/Textures/UI/made-with-unity.png
-909c715064827523f10db9020a99b895 = Assets/Materials/Textures/UI/Title.png
 97162039e7f37ef4ca7440c5715f50be = Assets/Scenes/DOTS Subscene.unity
 ead95ae8a6288294c98220eeaff82fe6 = Assets/Scenes/TinyRacing.unity
 59358898b48609a23461e9c8b859ed2f = Assets/Textures/BoostPad.png
@@ -36,6 +35,8 @@ fb938b7923ddc981c8055f0083baa709 = Assets/Textures/Number8.png
 af72d1c4fd8e9b256dff946a8bcfbdfb = Assets/Textures/Number9.png
 449946fd57371d5c42920bb00a50bf55 = Assets/Textures/NumberSlash.png
 c5ec4e826e38ad1393950d34d5dc9bde = Assets/Textures/PressAnyKeyToStart.png
+d5cbad4ca5b9d0f9bea1aa057a25c591 = Assets/TigerDragoPolyArt03.png
+3b067d6d2004034ea9eb6446e5d8e286 = Assets/TigerDragoPolyArt04.png
 46b433b264c69cbd39f04ad2e5d12be8 = Configuration
 
 
@@ -75,6 +76,7 @@ c5ec4e826e38ad1393950d34d5dc9bde = Assets/Textures/PressAnyKeyToStart.png
 0x6774429a045b4372 -    7454656512470500210 - Unity.Tiny.Scenes.StartupScenes
 0x6ad55b2d91c581d3 -    7698159389337027027 - Unity.Tiny.Rendering.MeshRenderer
 0x6edd745e641dcda7 -    7988669262780550567 - Unity.Tiny.Image2DLoadFromFile
+0x7107dc50024a9b17 -    8144720687316769559 - Unity.Entities.Disabled
 0x76447972026766ed -    8522069925465384685 - Unity.Tiny.Rendering.LitMeshReference
 0x796cab47a3abc9f2 -    8749556500251003378 - Unity.Tiny.Rendering.SimpleMeshReference
 0x79c43ba8b53ae1d5 -    8774203569805648341 - Unity.Tiny.Audio.AudioClipLoadFromFile

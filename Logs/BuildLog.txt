@@ -1,0 +1,61 @@
+Warning: UseBurst specified, but target does not support burst yet. Not using burst.
+Warning: UseBurst specified, but target does not support burst yet. Not using burst.
+Warning: UseBurst specified, but target does not support burst yet. Not using burst.
+[       1s] Executed build program. Created build graph with 1099 nodes.
+[     1s] Build frontend of artifacts\tundra_Asmjs_yh4.dag ran (build file timestamp changed: ../../Assets/Scripts/TinyRacing.Authoring/TinyRacing.Authoring.asmdef)
+[           0s] Delete 7 artifact files that are no longer in use. (like ..\..\Builds\Asmjs\Data\3e34a5381fe416054b1ef0781db8fa23)
+[  37/1061  0s] CopyTool ../../Builds/Asmjs/Data/7e32ce129f8c57e7e00f7c1fa375250b
+[  38/1061  0s] CopyTool ../../Builds/Asmjs/Data/c8d2de3e6bc4aa1b85594883919778f3
+[  39/1061  0s] CopyTool ../../Builds/Asmjs/Data/46b433b264c69cbd39f04ad2e5d12be8
+[  40/1061  0s] CopyTool ../../Builds/Asmjs/Data/ab0761da2a51c32e2615a68509584819
+[  41/1061  0s] CopyTool ../../Builds/Asmjs/Data/2d64951bcbe1207bbc4428bd48372e6e
+[  42/1061  0s] CopyTool ../../Builds/Asmjs/Data/97162039e7f37ef4ca7440c5715f50be
+[  43/1061  0s] CopyTool ../../Builds/Asmjs/Data/449946fd57371d5c42920bb00a50bf55
+[  44/1061  0s] CopyTool ../../Builds/Asmjs/Data/2992805a37961c064c7e9d01c0b69cb2
+[  45/1061  0s] CopyTool ../../Builds/Asmjs/Data/280810710d6f05853ec42a19b495f691
+[  46/1061  0s] CopyTool ../../Builds/Asmjs/Data/bc3c5d55c3bacd14b54a3db8cf949399
+[  47/1061  0s] CopyTool ../../Builds/Asmjs/Data/c5ec4e826e38ad1393950d34d5dc9bde
+[  48/1061  0s] CopyTool ../../Builds/Asmjs/Data/8df76df07a7373d6c0ad5c99f80b90e8
+[  49/1061  0s] CopyTool ../../Builds/Asmjs/Data/59358898b48609a23461e9c8b859ed2f
+[  50/1061  0s] CopyTool ../../Builds/Asmjs/Data/a5b5006c295bac1813f192b14f6259f6
+[  51/1061  0s] CopyTool ../../Builds/Asmjs/Data/3b067d6d2004034ea9eb6446e5d8e286
+[  52/1061  0s] CopyTool ../../Builds/Asmjs/Data/ffaa5d7921d081cd42b1cc4d188f317a
+[  53/1061  0s] CopyTool ../../Builds/Asmjs/Data/fb938b7923ddc981c8055f0083baa709
+[  54/1061  0s] CopyTool ../../Builds/Asmjs/Data/af72d1c4fd8e9b256dff946a8bcfbdfb
+[  55/1061  0s] CopyTool ../../Builds/Asmjs/Data/f24cae80b439bd77d3d4a0431ad79207
+[  56/1061  0s] CopyTool ../../Builds/Asmjs/Data/6f8a0afafeb011d229556ecb72b64f2b
+[  57/1061  0s] CopyTool ../../Builds/Asmjs/Data/d85957014e39ac2b6633b84bfe644da6
+[  58/1061  0s] CopyTool ../../Builds/Asmjs/Data/b428c1199fcb250b43ecc6508f5c7933
+[  59/1061  0s] CopyTool ../../Builds/Asmjs/Data/ad9f50e074e96e6dcb06e0d003872bba
+[  60/1061  0s] CopyTool ../../Builds/Asmjs/Data/65d5fbc38183100ec77bafab84861788
+[  61/1061  0s] CopyTool ../../Builds/Asmjs/Data/5b670003415d5cee62e802c8835f9b6a
+[  62/1061  0s] CopyTool ../../Builds/Asmjs/Data/2de1e48a0df415974f1e4ab70eee6a39
+[  63/1061  0s] CopyTool ../../Builds/Asmjs/Data/2cd9007690621096b89af05f593f8663
+[  64/1061  0s] CopyTool ../../Builds/Asmjs/Data/7cc46b9899b87b873e6ea34289e77298
+[  65/1061  0s] CopyTool ../../Builds/Asmjs/Data/0d5e50f7eabe6a6502c1030d4ee4718f
+[  66/1061  0s] CopyTool ../../Builds/Asmjs/Data/10aeba28d4ab63c3305682fc472875c5
+[  67/1061  0s] CopyTool ../../Builds/Asmjs/Data/c3c4c8e879a47e4d55b552c78dcb37b4
+[  75/1061  0s] CopyTool ../../Builds/Asmjs/Data/2854a0d276ea18dafb86129dceebd5fd
+[  97/1061  0s] CopyTool ../../Builds/Asmjs/Data/e8e9a0d851982419005b605602bf0e69
+[ 117/1061  0s] CopyTool ../../Builds/Asmjs/Data/f9da9dfd0a3128a4ce5eb41feeec2936
+[ 213/1061  0s] CopyTool ../../Builds/Asmjs/Data/ead95ae8a6288294c98220eeaff82fe6
+[ 331/1061  0s] CopyTool ../../Builds/Asmjs/Data/e202c59369789e0284f7a1b2b6aef378
+[BUSY       6s] Link_WebGL_asmjs artifacts/TinyRacing.il2cpp/Asmjs/TinyRacing.html (+4 others)
+[BUSY      16s] Link_WebGL_asmjs artifacts/TinyRacing.il2cpp/Asmjs/TinyRacing.html (+4 others)
+[BUSY      26s] Link_WebGL_asmjs artifacts/TinyRacing.il2cpp/Asmjs/TinyRacing.html (+4 others)
+[BUSY      36s] Link_WebGL_asmjs artifacts/TinyRacing.il2cpp/Asmjs/TinyRacing.html (+4 others)
+[BUSY      46s] Link_WebGL_asmjs artifacts/TinyRacing.il2cpp/Asmjs/TinyRacing.html (+4 others)
+[BUSY      56s] Link_WebGL_asmjs artifacts/TinyRacing.il2cpp/Asmjs/TinyRacing.html (+4 others)
+[BUSY      66s] Link_WebGL_asmjs artifacts/TinyRacing.il2cpp/Asmjs/TinyRacing.html (+4 others)
+[BUSY      76s] Link_WebGL_asmjs artifacts/TinyRacing.il2cpp/Asmjs/TinyRacing.html (+4 others)
+[BUSY      86s] Link_WebGL_asmjs artifacts/TinyRacing.il2cpp/Asmjs/TinyRacing.html (+4 others)
+[BUSY      96s] Link_WebGL_asmjs artifacts/TinyRacing.il2cpp/Asmjs/TinyRacing.html (+4 others)
+[BUSY     106s] Link_WebGL_asmjs artifacts/TinyRacing.il2cpp/Asmjs/TinyRacing.html (+4 others)
+[1055/1061 108s] Link_WebGL_asmjs artifacts/TinyRacing.il2cpp/Asmjs/TinyRacing.html (+4 others)
+wrote symbol map file to artifacts/TinyRacing.il2cpp/Asmjs/TinyRacing.symbols
+[1056/1061  0s] CopyTool ../../Builds/Asmjs/TinyRacing.symbols
+[1057/1061  0s] CopyTool ../../Builds/Asmjs/TinyRacing.mem
+[1058/1061  0s] CopyTool ../../Builds/Asmjs/TinyRacing.js
+[1059/1061  2s] CopyTool ../../Builds/Asmjs/TinyRacing.asm.js
+[1060/1061  0s] CopyTool ../../Builds/Asmjs/TinyRacing.html
+*** Bee build success (113.52 seconds - 0:01:53), 42 items updated
